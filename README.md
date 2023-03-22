@@ -1,6 +1,7 @@
-[![MasterHead](https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif)](https://sandhyaa-29.io)
+
 <h1 align="center">Hi 👋, I'm Sandhya M</h1>
 <h3 align="center">Like to Experimenting with new technologies</h3>
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhyaa-29&label=Profile%20views&color=0e75b6&style=flat" alt="sandhyaa-29" /> </p>
