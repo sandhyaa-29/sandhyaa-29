@@ -1,4 +1,4 @@
-
+(![Beige Yellow Minimalist Blog Graphic Designer LinkedIn Article Cover Image](https://user-images.githubusercontent.com/109505284/228424659-33f4ce61-dff4-4bcc-a798-3ba9de035d30.png)
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
