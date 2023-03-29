@@ -7,9 +7,9 @@
 
 -  I’m currently working on **Unlocking the World with Ultrasonic Glass: A Guide for Blind People**
 
--  I’m currently learning **Reactjs**
+-  I’m currently learning **Javascript,c**
 
--  Ask me about **frontend**
+-  Ask me about **frontend and c**
 
 -  How to reach me **sandhyakeerthu1@gmail.com**
 
