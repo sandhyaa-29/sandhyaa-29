@@ -5,7 +5,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhyaa-29&label=Profile%20views&color=0e75b6&style=flat" alt="sandhyaa-29" /> </p>
-<h4 align="left">About Me:</h4>
+<h4 align="left"><b>About Me:</b></h4>
 
 -  I’m currently working on **Unlocking the World with Ultrasonic Glass: A Guide for Blind People**
 
