@@ -1,6 +1,5 @@
 
 
-<h3 align="center">Like to Experimenting with new technologies</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 
