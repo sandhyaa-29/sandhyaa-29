@@ -7,7 +7,7 @@
 
 -  I’m currently working on **Unlocking the World with Ultrasonic Glass: A Guide for Blind People**
 
--  I’m currently learning **Javascript,c**
+-  I’m currently learning **Javascript,c++**
 
 -  Ask me about **frontend and c**
 
