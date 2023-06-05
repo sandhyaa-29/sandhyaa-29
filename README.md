@@ -9,7 +9,7 @@
 
 -  I’m currently learning **Javascript,c++**
 
--  Ask me about **frontend and c**
+-  Ask me about **frontend and UI/UX **
 
 -  How to reach me **sandhyakeerthu1@gmail.com**
 
