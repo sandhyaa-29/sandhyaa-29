@@ -7,7 +7,7 @@
 
 -  I’m currently working on **Web App Application**
 
--  I’m currently learning **Javascript,c++**
+-  I’m currently learning **Javascript**
 
 -  Ask me about **frontend and UI/UX **
 
