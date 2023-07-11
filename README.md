@@ -7,9 +7,9 @@
 
 -  I’m currently working on **Web App Application**
 
--  I’m currently learning **Javascript**
+-  I’m currently learning **Python**
 
--  Ask me about **frontend and UI/UX **
+-  Ask me about **Python,UI/UX,Powerpoint **
 
 -  How to reach me **sandhyakeerthu1@gmail.com**
 
