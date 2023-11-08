@@ -7,7 +7,7 @@
 
 -  I’m currently working on **Web App Application**
 
--  I’m currently learning **Python**
+-  I’m currently learning **CLOUD**
 
 -  Ask me about **Python,UI/UX,Powerpoint **
 
