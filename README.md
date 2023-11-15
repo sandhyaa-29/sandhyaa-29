@@ -9,7 +9,7 @@
 
 -  I’m currently learning **CLOUD**
 
--  Ask me about **Python,UI/UX,Powerpoint **
+-  Ask me about **Python,UI Design **
 
 -  How to reach me **sandhyakeerthu1@gmail.com**
 
